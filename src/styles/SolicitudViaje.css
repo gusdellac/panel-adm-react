@@ -1,0 +1,29 @@
+.solicitud-viaje{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    margin: 5px;
+}
+
+.solicitud-viaje_item{
+    list-style: none;
+    font-size: 1.2rem;
+    background-color: rgb(207, 207, 207);
+    border-radius: 10px;
+    padding: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin: 0 5px;
+}
+
+.botones{
+    height: 40px;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
